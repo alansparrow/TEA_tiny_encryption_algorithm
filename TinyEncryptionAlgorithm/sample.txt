@@ -1,0 +1,3 @@
+this is a SAMPLE text. What will be its ENCRYPTED verSION?
+Hello world!
+Nice to meet you ;)
